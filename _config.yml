@@ -1,13 +1,13 @@
 # Site settings
-title: Joe Hamman
-header-img: img/home-bg.jpg
-email: jhamman@ucar.edu
-description: "Joe Hamman"
+title: Yifan Cheng
+header-img: img/yifan/main_bg1.jpeg
+email: yifanc6@uw.edu
+description: "Yifan Cheng"
 # baseurl: "/"
-url: "http://joehamman.com/"
-twitter_username: HammanHydro
-github_username:  jhamman
-facebook_username:  joehamman
+url: "http://yifancheng.com/"
+twitter_username: YifanCheng4
+github_username:  yifancheng
+facebook_username:  yifanc6
 
 # Build settings
 markdown: kramdown

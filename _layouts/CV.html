@@ -13,7 +13,7 @@ layout: page
 
 <div class="hline"></div>
 
-<h3>CURRENT RESEARCH</h3>
+<!-- <h3>CURRENT RESEARCH</h3>
 <ul style="margin-left: 8px; margin-right: 8px;">
   {% for research in site.data.CV.current_research %}
   <li>{{ research }}</li>
@@ -21,7 +21,7 @@ layout: page
 </ul>
 
 <div class="hline"></div>
-
+-->
 <h3>EDUCATION</h3>
 <ul style="margin-left: 8px; margin-right: 8px;">
   {% for ed in site.data.CV.education %}
@@ -41,7 +41,7 @@ layout: page
 
 <div class="hline"></div>
 
-<h3>POSITIONS HELD</h3>
+<!-- <h3>POSITIONS HELD</h3>
 <table style="width:100%">
   <tr>
     <th>Period</th>
@@ -55,7 +55,7 @@ layout: page
       <td>{{exp.employer}}, {{exp.location}}</td>
     </tr>
   {% endfor %}
-</table>
+</table>-->
 
 <div class="hline"></div>
 
@@ -81,18 +81,20 @@ layout: page
   <tr>
     <th>Date</th>
     <th>Title</th>
+    <th>Institution</th>
   </tr>
   {% for award in site.data.CV.awards %}
     <tr>
       <td>{{award.date}}</td>
       <td>{{award.title}}</td>
+      <td>{{award.institution}}</td>
     </tr>
   {% endfor %}
 </table>
 
 <div class="hline"></div>
 
-<h3>LICENSES</h3>
+<!-- <h3>LICENSES</h3>
 <table style="width:100%">
   <tr>
     <th>Date</th>
@@ -107,8 +109,7 @@ layout: page
     </tr>
   {% endfor %}
 </table>
-<div class="hline"></div>
-
+<div class="hline"></div> -->
 <h3>MEMBERSHIPS</h3>
 <ul style="margin-left: 8px; margin-right: 8px;">
   {% for member in site.data.CV.memberships %}
@@ -117,22 +118,21 @@ layout: page
 </ul>
 <div class="hline"></div>
 
-<h3>PEER REVIEW DUTIES</h3>
+<!-- <h3>PEER REVIEW DUTIES</h3>
 <ul style="margin-left: 8px; margin-right: 8px;">
   {% for peer in site.data.CV.peer_reviews %}
     <li><a href="{{peer.url}}" target="_blank">{{peer.name}}</a></li>
   {% endfor %}
 </ul>
-<div class="hline"></div>
+<div class="hline"></div> -->
 
-
-<h3>SPONSORED PROJECTS</h3>
+<!-- <h3>SPONSORED PROJECTS</h3>
 <ul style="margin-left: 8px; margin-right: 8px;">
   {% for project in site.data.CV.sponsored_projects %}
   <li><a href="{{project.url}}" target="_blank">{{project.title}}</a> <br> {{ project.award_id }}, {{ project.role }}, {{ project.amount }}, {{ project.pop }} <br> {{ project.id}} </li>
   {% endfor %}
 </ul>
-<div class="hline"></div>
+<div class="hline"></div> -->
 
 <h3>PUBLICATIONS</h3>
 
@@ -168,7 +168,7 @@ layout: page
 {% endif %}
 
 {% if site.data.pubs.conference_proceedings.size > 0 %}
-  <h4>Conference Proceedings</h4>
+<!--  <h4>Conference Proceedings</h4>
   {% for pub in site.data.pubs.conference_proceedings %}
     {% include conference_proceeding.html %}
   {% endfor %}

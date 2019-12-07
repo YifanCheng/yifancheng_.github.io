@@ -1,143 +1,65 @@
 research_interests:
-  - Hydrologic Modeling
-  - Climate Modeling
-  - Land-Atmosphere Interactions
-  - Climate Variability
-  - Climate Change Impacts
-  - Water Resources Management
-  - Big-data Science
-
-current_research:
-  - Quantitative hydrologic storylines [at NCAR]
-  - Community Terrestrial System Model [at NCAR]
-  - Pangeo - An Open Source Big Data Climate Science Platform [at NCAR]
-  - Regional Arctic System Model (RASM) [at UW]
+  - Land surface modeling
+  - Climate change impact
+  - Anthropogenic impact
+  - Aquatic ecosystem
+  - Water resources management
+  - Data-driven techniques (Machine Learning)
 
 education:
   - school: University of Washington
     location: Seattle, Washington
     program: Civil and Environmental Engineering
     degree: Ph.D.
-    year: 2016
-    emphasis: Hydrologic modeling, coupled land-atmosphere interactions
-    thesis: Understanding the Arctic Hydroclimate Using the Regional Arctic System Model
-  - school: University of Washington
-    location: Seattle, Washington
-    program: Civil and Environmental Engineering
-    degree: M.S.
-    year: 2012
-    emphasis: Climate Change Impacts, Hydrology, and Water Resources.
-    thesis: Effects of Projected Twenty-First Century Sea Level Rise, Storm Surge, and River Flooding on Water Levels in Puget Sound Floodplains and Estuaries
-  - school: University of Arizona
-    location: Tucson, Arizona
-    program: Civil Engineering
+    year: 2015-present
+    emphasis: Hydrology and Hydrodynamics 
+    thesis: Better understanding human impacts on river thermal regimes under climate change
+  - school: Tsinghua University
+    location: Beijing, China
+    program: Hydraulic Engineering
     degree: B.S.
-    year: 2007
-    emphasis: Water Resources and Geotechnical Engineering
-
-positions_held:
-  - position: Project Scientist
-    employer: Climate and Global Dynamics Laboratory, National Center for Atmospheric Research
-    location: Boulder, Colorado
-    period: 2018 - present
-  - position: Post-Doctoral Fellow
-    employer: Research Applications Laboratory, Hydrometeorological Applications Program, National Center for Atmospheric Research
-    location: Boulder, Colorado
-    period: 2016 - 2018
-  - position: Research Assistant
-    employer: Department of Civil and Environmental Engineering, University of Washington
-    location: Seattle, Washington
-    period: 2010 - 2016
-  - position: Water Resource Specialist
-    employer: Cardno TEC, Inc.
-    location: Seattle, Washington
-    period: 2010 - 2014
-  - position: Adjunct Professor
-    employer: Deptartment of Civil and Environmental Engineering, Seattle University
-    location: Seattle, Washington
-    period: 2013
-  - position: Civil Engineer Designer II
-    employer: Roth-Hill Engineering Partners
-    location: Bellevue, Washington
-    period: 2007 - 2009
-  - position: Civil Engineering Intern
-    employer: Dowl Engineering
-    location: Tucson, Arizona
-    period: 2007
+    year: 2015
+    emphasis: Hydrology and Fluid Mechanics
 
 teaching:
-  - course: "CEE 500: Environmental and Water Resource Seminar"
-    term: Fall 2012, Fall 2013, Fall 2014
+  - course: "CEE 347: Fluid Mechanics"
+    term: Fall 2019
     position: Teaching Assistant
     university: University of Washington
     location: Seattle, Washington
-  - course: "CEEGR 371: Water Resource Engineering I"
-    term: Spring 2013
-    position: Adjunct Professor
+  - course: "CEE599: Special Topics in Civil and Environmental Engineering: Data Analysis in Water Science"
+    term: Fall 2017
+    position: Teaching Assistant
     university: Seattle University
     location: Seattle, Washington
 
 awards:
-  - title: Best Student Presentation Award, University of Washington Water Symposium
+  - title: Schmidt Science Fellowship Nominee 2019
+    institution: Schmidt Fellowship/University of Washington
+    date: 2019
+  - title: Rossano Fellowship
+    institution: University of Washington 
+    date: 2017
+  - title: Outstanding Student Presentation Award
+    institution: American Geophysical Union 
+    date: 2017
+  - title: Tsinghua Academic Progress Scholarship
+    institution: Tsinghua University
+    date: 2014
+  - title: Excellence in Social Work Scholarship
+    institution: Tsinghua University
+    date: 2014
+  - title: Comprehensive Scholarship:'Friend of Tsinghua - Hengda Scholarship'
+    institution: Tsinghua University
+    date: 2013
+  - title: Excellent Freshmen Scholarship
+    institution: Tsinghua University
     date: 2012
-  - title: Ronald E. Nece Fellowship, University of Washington
-    date: 2016
 
-licenses:
-  - title: Professional Engineer in the State of Washington
-    number: 50453
-    date: 2013-present
 
 memberships:
   - name: American Geophysical Union (AGU)
     url: "http://www.agu.org/"
-  - name: American Meteorology Association (AMS)
-    url: "https://www2.ametsoc.org/"
-  - name: American Society for Civil Engineers (ASCE)
-    url: "http://www.asce.org/"
   - name: American Water Resources Association (AWRA)
     url: "http://www.awra.org/"
 
-peer_reviews:
-  - name: Environmental Modelling and Software (ENVSOFT)
-    url: "https://www.journals.elsevier.com/environmental-modelling-and-software/"
-  - name: Journal of Hydrometeorology (JHM)
-    url: "https://www.ametsoc.org/ams/index.cfm/publications/journals/journal-of-hydrometeorology/"
-  - name: Water Resources Research (WRR)
-    url: "http://agupubs.onlinelibrary.wiley.com/hub/journal/10.1002/(ISSN)1944-7973/"
-  - name: Geophysical Model Development (GMD)
-    url: "https://www.geoscientific-model-development.net/"
-  - name: Hydrology and Earth System Sciences (HESS)
-    url: "https://www.hydrol-earth-syst-sci-discuss.net/"
-
-sponsored_projects:
-  - title: "Collaborative Proposal: EarthCube Integration: Pangeo: An Open Source Big Data Climate Science Platform"
-    award_id: NSF-OCE 1740633
-    amount: $1.2M ($466,882.00 to NCAR)
-    pop: 2017-09-01 - 2020-08-31
-    role: co-PI
-    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1740633
-  - title: "Community tools for analysis of NASA Earth Observing System Data in the Cloud"
-    award_id: NASA-ACCESS 80NSSC18M0156 
-    amount: $1.5M ($300,000 to NCAR)
-    pop: 2018-09-15 – 2020-09-14
-    role: Institutional PI
-    url: https://earthdata.nasa.gov/esds/competitive-programs/access/eos-data-cloud
-  - title: "EarthCube Data Capabilities: Collaborative Proposal: Jupyter meets the Earth: Enabling discovery in geoscience through interactive computing at scale"
-    award_id: NSF-GEO-AGS 1928374
-    amount: $1.5M ($244,271 to NCAR)
-    pop: 2019-09-01 – 2022-08-31
-    role: Institutional PI
-    url: https://nsf.gov/awardsearch/showAward?AWD_ID=1928374
-  - title: "Convergence Accelerator Phase I (RAISE): Knowledge Open Network Queries for Research (KONQUER)"
-    award_id: NSF-OIA 1937136
-    amount: $1M ($166,459 to NCAR)
-    pop: 2019-09-01 – 2020-05-31
-    role: co-PI
-    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937136
-  - title: "NNA Track 1: Collaborative Research: The climate impacts on Alaskan and Yukon rivers, fish, and communities as told through co-produced scenarios"
-    award_id: NSF-ICER (1928078)
-    amount: $3M ($798,952 to NCAR)
-    pop: 2020-01-01 – 2024-12-31
-    role: co-PI
-    url: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1928078
