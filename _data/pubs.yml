@@ -18,15 +18,20 @@ articles_in_review:
     year: 2019
     journal: "Climatic Change"
     status: In review
-  - title: "Climate change impacts on water availability and water temperature in large-scale regulated river systems: A case study in the Southeastern United States"
-    authors: Cheng, Y., N. Voisin, J. Yearsley, and B. Nijssen
-    year: 2019
-    journal: "Water Resources Research"
-    status: In revision
 
 #. - shown on the publications page
-# articles_accepted:
+articles_accepted:
+  - title: "Reservoirs modify river thermal regime sensitivity to climate change: a case study in the southeastern United States"
+    authors: Cheng, Y., N. Voisin, J. Yearsley, and B. Nijssen
+    year: 2020
+    journal: Water Resources Research
+    status: accepted
 
+  - title: "Thermal extremes in regulated river systems under climate change: an application to southeastern U.S. rivers"
+    authors: Cheng, Y., N. Voisin, J. Yearsley, and B. Nijssen
+    year: 2020
+    journal: Environmental Research Letters
+    status: accepted
 # articles_published - shown on the publications page
 articles_published:
   - title: "Winter atmospheric buoyancy forcing and oceanic response during strong wind events around southeastern Greenland in the Regional Arctic System Model (RASM) for 1990-2010"
