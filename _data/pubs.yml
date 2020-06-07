@@ -21,19 +21,19 @@ articles_in_review:
 
 #. - shown on the publications page
 articles_accepted:
+
+# articles_published - shown on the publications page
+articles_published:
   - title: "Reservoirs modify river thermal regime sensitivity to climate change: a case study in the southeastern United States"
     authors: Cheng, Y., N. Voisin, J. Yearsley, and B. Nijssen
     year: 2020
     journal: Water Resources Research
-    status: accepted
-
+    doi: 10.1029/2019WR025784
   - title: "Thermal extremes in regulated river systems under climate change: an application to southeastern U.S. rivers"
     authors: Cheng, Y., N. Voisin, J. Yearsley, and B. Nijssen
     year: 2020
     journal: Environmental Research Letters
-    status: accepted
-# articles_published - shown on the publications page
-articles_published:
+    doi: 10.1088/1748-9326/ab8f5f
   - title: "Winter atmospheric buoyancy forcing and oceanic response during strong wind events around southeastern Greenland in the Regional Arctic System Model (RASM) for 1990-2010"
     authors: Niemeyer, R., Y. Cheng, Y. Mao, J. Yearsley, and B. Nijssen 
     year: 2018
