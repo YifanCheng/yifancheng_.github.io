@@ -13,11 +13,6 @@ articles_in_review:
     year: 2019
     journal: "Nature Communication"
     status: In review
-  - title: "Development of performance response surfaces for assessing fossil fuel-fired power plants under a changing climate"
-    authors: Loew, A., P. Jaramillo, H. Zhai, R. Ali, B. Nijssen, Y. Cheng, and K. Klima
-    year: 2019
-    journal: "Climatic Change"
-    status: In review
 
 #. - shown on the publications page
 articles_accepted:
