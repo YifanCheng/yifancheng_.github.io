@@ -16,14 +16,14 @@ articles_in_review:
 
 #. - shown on the publications page
 articles_accepted:
+
+# articles_published - shown on the publications page
+articles_published:
   - title: "Fossil Fuel-fired Power Plant Operations Under a Changing Climate"
     authors: Loew, A., P. Jaramillo, H. Zhai, R. Ali, B. Nijssen, Y. Cheng, and K. Klima
     year: 2020
     journal: Climatic Change
-    status: Accepted
-
-# articles_published - shown on the publications page
-articles_published:
+    doi: 10.1007/s10584-020-02834-y
   - title: "Reservoirs modify river thermal regime sensitivity to climate change: a case study in the southeastern United States"
     authors: Cheng, Y., N. Voisin, J. Yearsley, and B. Nijssen
     year: 2020
