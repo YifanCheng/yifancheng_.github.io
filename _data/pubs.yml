@@ -8,11 +8,16 @@
 
 # articles_in_review - shown on the publications page
 articles_in_review:
+  - title: "Climate-induced tradeoffs in planning and operating costs of a regional electricity system"
+    authors: Fonseca, F., M. Craig, P. Jaramillo, M. Bergés, E. Severnini, A. Loew, H. Zhai, Y. Cheng, B. Nijssen, N. Voisin, and J. Yearsley
+    year: 2021
+    journal: "Joule"
+    status: In review
   - title: "Capacity expansion of an electricity generation fleet under climate change"
     authors: Fonseca, F., M. Craig, P. Jaramillo, M. Bergés, E. Severnini, A. Loew, H. Zhai, Y. Cheng, B. Nijssen, N. Voisin, and J. Yearsley
-    year: 2019
-    journal: "Nature Communication"
-    status: In review
+    year: 2021
+    journal: "Environmental Science & Technology"
+    status: In revision
 
 #. - shown on the publications page
 articles_accepted:
