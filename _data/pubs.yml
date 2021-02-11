@@ -13,17 +13,17 @@ articles_in_review:
     year: 2021
     journal: "Joule"
     status: In review
-  - title: "Capacity expansion of an electricity generation fleet under climate change"
-    authors: Fonseca, F., M. Craig, P. Jaramillo, M. Bergés, E. Severnini, A. Loew, H. Zhai, Y. Cheng, B. Nijssen, N. Voisin, and J. Yearsley
-    year: 2021
-    journal: "Environmental Science & Technology"
-    status: In revision
 
 #. - shown on the publications page
 articles_accepted:
 
 # articles_published - shown on the publications page
 articles_published:
+  - title: "Effects of Climate Change on Capacity Expansion Decisions of an Electricity Generation Fleet in the Southeast U.S."
+    authors: Fonseca, F., M. Craig, P. Jaramillo, M. Bergés, E. Severnini, A. Loew, H. Zhai, Y. Cheng, B. Nijssen, N. Voisin, and J. Yearsley
+    year: 2021
+    journal: Environmental Science and Technology
+    doi: 10.1021/acs.est.0c06547
   - title: "Fossil Fuel-fired Power Plant Operations Under a Changing Climate"
     authors: Loew, A., P. Jaramillo, H. Zhai, R. Ali, B. Nijssen, Y. Cheng, and K. Klima
     year: 2020
