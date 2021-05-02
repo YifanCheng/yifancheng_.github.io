@@ -11,7 +11,7 @@ education:
     location: Seattle, Washington
     program: Civil and Environmental Engineering
     degree: Ph.D.
-    year: 2015-present
+    year: 2015-2020
     emphasis: Hydrology and Hydrodynamics 
     thesis: Better understanding human impacts on river thermal regimes under climate change
   - school: Tsinghua University
@@ -62,4 +62,5 @@ memberships:
     url: "http://www.agu.org/"
   - name: American Water Resources Association (AWRA)
     url: "http://www.awra.org/"
-
+  - name: European Geophysical Union (EGU)
+    url: "https://www.egu.eu/"
