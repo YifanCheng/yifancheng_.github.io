@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Reservoirs Modify River Thermal Regime Sensitivity to Climate Change: A Case Study in the Southeastern United States (Paper highlight)"
+title:      "Reservoirs modify river thermal regime sensitivity to climate change: a case study in the Southeastern United States (Paper highlight)"
 date:       2020-05-20 12:00:00
 author:     "Yifan Cheng"
 header-img: "../img/yifan/main_bg1.jpeg"
