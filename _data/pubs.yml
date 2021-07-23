@@ -8,11 +8,6 @@
 
 # articles_in_review - shown on the publications page
 articles_in_review:
-  - title: "Climate-induced tradeoffs in planning and operating costs of a regional electricity system"
-    authors: Fonseca, F., M. Craig, P. Jaramillo, M. Bergés, E. Severnini, A. Loew, H. Zhai, Y. Cheng, B. Nijssen, N. Voisin, and J. Yearsley
-    year: 2021
-    journal: "Joule"
-    status: In review
   - title: "Climate change in a heavily regulated, fragmented river system projects disappearance of suitable habitat for two iconic fish species in the Tennessee River"
     authors: Cheng, Y., B. Nijssen, G. Holtgrieve, and J. Olden 
     year: 2021
@@ -21,6 +16,11 @@ articles_in_review:
 
 #. - shown on the publications page
 articles_accepted:
+  - title: "Climate-induced tradeoffs in planning and operating costs of a regional electricity system"
+    authors: Fonseca, F., M. Craig, P. Jaramillo, M. Bergés, E. Severnini, A. Loew, H. Zhai, Y. Cheng, B. Nijssen, N. Voisin, and J. Yearsley
+    year: 2021
+    journal: "Environmental Science and Technology"
+    status: Accepted
 
 # articles_published - shown on the publications page
 articles_published:
