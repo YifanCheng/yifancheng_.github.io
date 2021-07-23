@@ -1,23 +1,22 @@
 ---
 layout:     post
-title:      "Reservoirs Modify River Thermal Regime Sensitivity to Climate Change: A Case Study in the Southeastern United States (Paper highlight)"
+title:      "Reservoirs modify river thermal regime sensitivity to climate change: a case study in the Southeastern United States (Paper highlight)"
 date:       2020-05-20 12:00:00
 author:     "Yifan Cheng"
 header-img: "../img/yifan/main_bg1.jpeg"
 comments: true
 ---
 
-Abstract: Seasonal thermal stratification in reservoirs changes the thermal regime of regulated river systems as well as stream temperature responses to climate change. Cold releases from the reservoir hypolimnion can depress downstream river temperature during warm seasons. Recent large‐scale climate change studies on stream temperature have largely ignored reservoir thermal stratification. In this study, we used established models to develop a framework which considers water demand and reservoir regulation with thermal stratification and applied this model framework to the southeastern United States. About half of all 271 reservoirs in our study area retain strong thermal stratification by the 2080s (2070–2099) under RCP8.5 even as median residence times decrease to 60 days from 69 days in the historic period (1979–2010). Reservoir impacts on downstream temperatures become slightly weaker in the future because of higher air temperature and stronger solar radiation. We defined a “cooling potential” to quantify the thermal energy that a water body can absorb before exceeding a water temperature threshold. In the future, higher river temperatures will reduce the cooling potential for all river segments, but more so for river segments minimally impacted by thermal stratification. Reservoir impacts on cooling potential remain strong for river segments downstream of reservoirs with strong thermal stratification. We conducted a sensitivity analysis to evaluate the robustness of our findings to errors in the hydrological simulations. Although river segments subject to reservoir regulation are more sensitive to errors in hydrology than those without regulation impacts, our overall findings do not materially change due to these errors.
+**Abstract** <br />
+Seasonal thermal stratification in reservoirs changes the thermal regime of regulated river systems as well as stream temperature responses to climate change. Cold releases from the reservoir hypolimnion can depress downstream river temperature during warm seasons. Recent large‐scale climate change studies on stream temperature have largely ignored reservoir thermal stratification. In this study, we used established models to develop a framework which considers water demand and reservoir regulation with thermal stratification and applied this model framework to the southeastern United States. About half of all 271 reservoirs in our study area retain strong thermal stratification by the 2080s (2070–2099) under RCP8.5 even as median residence times decrease to 60 days from 69 days in the historic period (1979–2010). Reservoir impacts on downstream temperatures become slightly weaker in the future because of higher air temperature and stronger solar radiation. We defined a “cooling potential” to quantify the thermal energy that a water body can absorb before exceeding a water temperature threshold. In the future, higher river temperatures will reduce the cooling potential for all river segments, but more so for river segments minimally impacted by thermal stratification. Reservoir impacts on cooling potential remain strong for river segments downstream of reservoirs with strong thermal stratification. We conducted a sensitivity analysis to evaluate the robustness of our findings to errors in the hydrological simulations. Although river segments subject to reservoir regulation are more sensitive to errors in hydrology than those without regulation impacts, our overall findings do not materially change due to these errors.
 
 ![presenting](../../../../img/yifan/paper1_figure1.jpeg)
 Figure 1: Model framework. Dashed boxes and arrows denote models and inputs that are only used in the regulated model setup.
 
 <br />
-
-Result highlight:
+**Result highlight**
 * Reservoir regulations, and the resulting seasonal thermal stratification, influence downstream river temperatures.
 * Reservoir regulation changes how river temperature responds to climate change, especially through changing thermal stratification. 
 
 <br />
-
 For detailed results, please refer to [Cheng et al. (2020)](https://doi.org/10.1029/2019WR025784)
